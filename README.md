@@ -292,6 +292,10 @@
 
 #### Additional Vision-Language Models
 
+- **[LLaVA (Haotian Liu et al.)](https://github.com/haotian-liu/LLaVA)** ![GitHub stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social) - Visual Instruction Tuning framework built towards GPT-4V level capabilities. NeurIPS 2023 Oral presentation. Foundation for many multimodal LLMs with strong zero-shot performance. Apache 2.0 licensed.
+- **[Video-LLaMA (Alibaba DAMO)](https://github.com/DAMO-NLP-SG/Video-LLaMA)** ![GitHub stars](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA?style=social) - Instruction-tuned Audio-Visual Language Model for video understanding. EMNLP 2023 Demo. Enables LLMs to understand both video and audio content with strong temporal reasoning. BSD-3-Clause licensed.
+- **[VideoLLaMA 2 (Alibaba DAMO)](https://github.com/DAMO-NLP-SG/VideoLLaMA2)** ![GitHub stars](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2?style=social) - Advancing spatial-temporal modeling and audio understanding in video LLMs. Top-ranked ~7B video LLM on Video-MME and MLVU benchmarks. Strong performance on video question answering and temporal grounding.
+- **[InternVideo (OpenGVLab)](https://github.com/OpenGVLab/InternVideo)** ![GitHub stars](https://img.shields.io/github/stars/OpenGVLab/InternVideo?style=social) - Video foundation models for multimodal understanding via generative and discriminative learning. ECCV 2024. Includes InternVideo2.5 with long-context video modeling and InternVid dataset for video-text understanding. Apache 2.0 licensed.
 - **[MiniCPM-V (OpenBMB)](https://github.com/OpenBMB/MiniCPM-V)** ![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social) - GPT-4V level multimodal LLM for single image, multi-image and high-FPS video understanding on edge devices. 8B parameters with superior OCR and reasoning capabilities. Apache 2.0 licensed.
 
 ---
