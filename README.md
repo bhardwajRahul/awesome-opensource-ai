@@ -350,6 +350,8 @@
 
 - **[GGUF](https://github.com/ggml-org/llama.cpp)** ![GitHub stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social) (part of llama.cpp) - Modern quantized format that powers most local inference.
 - **[bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes)** ![GitHub stars](https://img.shields.io/github/stars/bitsandbytes-foundation/bitsandbytes?style=social) - 8-bit and 4-bit optimizers + quantization.
+- **[AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ)** ![GitHub stars](https://img.shields.io/github/stars/AutoGPTQ/AutoGPTQ?style=social) - Easy-to-use LLM quantization package with user-friendly APIs based on GPTQ algorithm. Supports 2-bit to 8-bit quantization with seamless Hugging Face integration. MIT licensed.
+- **[AutoAWQ](https://github.com/casper-hansen/AutoAWQ)** ![GitHub stars](https://img.shields.io/github/stars/casper-hansen/AutoAWQ?style=social) - Activation-aware weight quantization for LLMs. Faster inference with 2x-3x speedup and reduced memory usage while maintaining quality. Supports fused modules and optimized CUDA kernels. MIT licensed.
 - **[ExLlamaV2](https://github.com/turboderp/exllamav2)** ![GitHub stars](https://img.shields.io/github/stars/turboderp/exllamav2?style=social) - Highly optimized CUDA kernels for 4-bit/8-bit inference.
 - **[Optimum](https://github.com/huggingface/optimum)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/optimum?style=social) - Hardware-specific acceleration and quantization.
 
@@ -1035,6 +1037,7 @@
 #### Desktop & Mobile AI Apps
 
 - **[Jan](https://github.com/janhq/jan)** ![GitHub stars](https://img.shields.io/github/stars/janhq/jan?style=social) - Local-first AI app framework.
+- **[GPT4All](https://github.com/nomic-ai/gpt4all)** ![GitHub stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social) - Run local LLMs on any device. Cross-platform desktop application for running open-source language models with built-in model ecosystem, LocalDocs for chatting with documents, and support for thousands of models. MIT licensed.
 - **[Cherry Studio](https://github.com/CherryHQ/cherry-studio)** ![GitHub stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=social) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs. AGPL-3.0 licensed.
 - **[DeepChat](https://github.com/ThinkInAIXYZ/deepchat)** ![GitHub stars](https://img.shields.io/github/stars/ThinkInAIXYZ/deepchat?style=social) - A smart assistant that connects powerful AI to your personal world. Built-in MCP and ACP support, multiple search engines, privacy-focused with local data storage. Apache-2.0 licensed.
 - **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** ![GitHub stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social) - Highly customizable role-playing frontend.
