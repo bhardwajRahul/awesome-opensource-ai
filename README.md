@@ -6,7 +6,7 @@
 
 # Awesome Open Source AI
 
-*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 27, 2026.*
+*A curated list of **battle-tested, production-proven** open-source AI models, libraries, infrastructure, and developer tools. Only elite-tier projects make this list. Updated April 28, 2026.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
@@ -313,6 +313,7 @@
 - **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** ![GitHub stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social) - User-friendly llama.cpp fork focused on role-playing and creative writing.
 - **[RamaLama](https://github.com/containers/ramalama)** ![GitHub stars](https://img.shields.io/github/stars/containers/ramalama?style=social) - Container-centric tool for simplifying local AI model serving. Automatically detects GPUs, pulls optimized container images, and runs models securely in rootless containers with enterprise-grade isolation.
 - **[LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** ![GitHub stars](https://img.shields.io/github/stars/google-ai-edge/LiteRT-LM?style=social) - Google's production-ready inference framework for deploying LLMs on edge devices. Cross-platform support for Android, iOS, Web, Desktop, and IoT with GPU/NPU acceleration. Powers on-device GenAI in Chrome and Chromebook Plus. Apache 2.0 licensed.
+- **[llamafile](https://github.com/mozilla-ai/llamafile)** ![GitHub stars](https://img.shields.io/github/stars/mozilla-ai/llamafile?style=social) - Mozilla's single-file distributable LLM solution. Bundle model weights, inference engine, and runtime into one portable executable that runs on six OSes without installation. Perfect for distributing LLMs as standalone binaries.
 
 #### High-performance Serving & API Servers
 
@@ -345,6 +346,8 @@
 
 - **[CTranslate2](https://github.com/OpenNMT/CTranslate2)** ![GitHub stars](https://img.shields.io/github/stars/OpenNMT/CTranslate2?style=social) - Fast inference engine for Transformer models supporting OpenNMT and Hugging Face models. Optimized for CPU and GPU with batching, quantization (INT8/FP16), and dynamic memory management. Powers faster-whisper and other production deployments. MIT licensed.
 - **[PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)** ![GitHub stars](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer?style=social) - High-speed LLM inference for local deployment on consumer GPUs. Achieves up to 11x speedup over llama.cpp on RTX 4090 by exploiting power-law neuron activation patterns. MIT licensed.
+- **[mistral.rs](https://github.com/EricLBuehler/mistral.rs)** ![GitHub stars](https://img.shields.io/github/stars/EricLBuehler/mistral.rs?style=social) - Fast, flexible Rust-native LLM inference engine built on Candle. Supports text, vision, audio, image generation, and embeddings with hardware-aware auto-tuning. MIT licensed.
+- **[KTransformers](https://github.com/kvcache-ai/ktransformers)** ![GitHub stars](https://img.shields.io/github/stars/kvcache-ai/ktransformers?style=social) - Flexible framework for heterogeneous CPU-GPU LLM inference and fine-tuning. Enables running large MoE models by offloading experts to CPU with BF16/FP8 precision support. Apache 2.0 licensed.
 
 #### Quantization, Distillation & Optimization
 
