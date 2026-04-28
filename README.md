@@ -883,6 +883,7 @@
 - **[Agentic Security](https://github.com/msoedov/agentic_security)** ![GitHub stars](https://img.shields.io/github/stars/msoedov/agentic_security?style=social) - Agentic LLM vulnerability scanner and AI red teaming kit with multi-step attack simulation and automated security probing. Apache 2.0 licensed.
 - **[LlamaFirewall (Meta)](https://github.com/meta-llama/PurpleLlama)** ![GitHub stars](https://img.shields.io/github/stars/meta-llama/PurpleLlama?style=social) - Open-source guardrail system for building secure AI agents. Detects prompt injection, agent misalignment, and insecure code through PromptGuard 2, Agent Alignment Checks, and CodeShield scanners. Part of PurpleLlama. BSD-3-Clause licensed.
 - **[Detoxify](https://github.com/unitaryai/detoxify)** ![GitHub stars](https://img.shields.io/github/stars/unitaryai/detoxify?style=social) - Trained models and code to predict toxic comments on all 3 Jigsaw Toxic Comment Challenges. Built using PyTorch Lightning and Transformers for toxicity, severe toxicity, obscene, threat, insult, identity attack, and sexual explicit content detection. Apache 2.0 licensed.
+- **[AI-Infra-Guard (Tencent)](https://github.com/Tencent/AI-Infra-Guard)** ![GitHub stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?style=social) - Comprehensive AI Red Teaming platform with OpenClaw Security Scan, Agent Scan, MCP Server scanning, and LLM jailbreak evaluation. Detects 1000+ CVEs across 57+ AI framework components including Ollama, vLLM, ComfyUI, and n8n. Apache 2.0 licensed.
 
 #### Responsible AI Development
 
